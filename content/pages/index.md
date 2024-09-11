@@ -54,7 +54,7 @@ sections:
     subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: FAMILY CLUB
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
