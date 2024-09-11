@@ -36,38 +36,6 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          <div style="text-align: center"></div>
-
-          ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)
-        image:
-          type: ImageBlock
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          url: /images/Diseño sin título (30).png
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pb-0
-              - pl-0
-              - pr-0
-            textAlign: left
-            borderRadius: large
-            flexDirection: row-reverse
-            justifyContent: center
-            margin:
-              - mt-0
-              - mr-0
-              - ml-0
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
         text: |+
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)
 
