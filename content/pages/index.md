@@ -44,7 +44,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Diseño sin título (30).png
           altText: Maria Walters
           styles:
             self:
