@@ -29,7 +29,7 @@ sections:
             textAlign: center
             borderRadius: large
             flexDirection: row
-            justifyContent: flex-end
+            justifyContent: center
       - type: FeaturedItem
         title: ''
         tagline: ''
