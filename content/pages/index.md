@@ -303,7 +303,7 @@ sections:
         altText: Wellster logo
         type: ImageBlock
         elementId: WESTER LOGO
-      - url: /images/Club Leon.png
+      - url: /images/Diseño sin título (5).png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/telus-logo.svg
