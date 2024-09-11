@@ -301,7 +301,7 @@ sections:
       self:
         justifyContent: center
         margin:
-          - mt-11
+          - mt-20
           - ml-14
           - mb-14
           - mr-14
