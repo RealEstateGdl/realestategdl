@@ -78,7 +78,7 @@ sections:
             flexDirection: row
             justifyContent: center
             margin:
-              - mt-9
+              - mt-24
     variant: next-prev-nav-multiple
     colors: bg-light-fg-dark
     styles:
