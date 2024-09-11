@@ -293,7 +293,7 @@ sections:
     hoverEffect: move-up
   - subtitle: ORGULLOSOS PATROCINADORES
     images:
-      - url: /images/images (2).png
+      - url: /images/1.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/vise-logo.svg
