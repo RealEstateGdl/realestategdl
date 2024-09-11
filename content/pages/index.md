@@ -36,13 +36,6 @@ sections:
         text: >
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(27\).png)MAS DE 30
           AMENIDADES
-        image:
-          type: ImageBlock
-          url: /images/Diseño sin título (27).png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
