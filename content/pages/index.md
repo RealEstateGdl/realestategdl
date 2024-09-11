@@ -58,7 +58,7 @@ sections:
         subtitle: + DE 30 AMENIDADES
         image:
           type: ImageBlock
-          url: /images/Diseño sin título (17).png
+          url: /images/Diseño sin título (18).png
           altText: Faux Fur Throw
           elementId: ''
           styles:
