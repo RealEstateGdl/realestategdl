@@ -30,6 +30,7 @@ sections:
             borderRadius: large
             flexDirection: row-reverse
             justifyContent: center
+            borderWidth: 0
       - type: FeaturedItem
         title: ''
         tagline: ''
