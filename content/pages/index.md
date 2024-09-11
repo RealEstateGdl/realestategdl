@@ -65,7 +65,7 @@ sections:
               - mr-0
               - ml-0
       - type: FeaturedItem
-        title: Business Consulting
+        title: + DE 30 AMENIDADES
         tagline: ''
         subtitle: Be in good company
         text: |
