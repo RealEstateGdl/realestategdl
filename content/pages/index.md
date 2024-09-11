@@ -73,7 +73,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Diseño sin título (30).png
           altText: Business consulting
           elementId: ''
           styles:
