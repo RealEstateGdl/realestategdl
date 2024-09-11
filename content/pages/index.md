@@ -36,33 +36,6 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |+
-          <div style="text-align: right"></div>
-
-        image:
-          type: ImageBlock
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          url: /images/Diseño sin título (30).png
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pb-0
-              - pl-0
-              - pr-0
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
         text: >+
           <div style="text-align:
           center">![](https://preview--realestateg-0fcb7.stackbit.dev/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(28\).png)</div>
