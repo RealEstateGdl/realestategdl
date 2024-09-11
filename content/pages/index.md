@@ -296,7 +296,7 @@ sections:
       - url: /images/Diseño sin título (2).png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Diseño sin título (3).png
         altText: Vise logo
         type: ImageBlock
       - url: /images/Houston_Astros_logo.svg
