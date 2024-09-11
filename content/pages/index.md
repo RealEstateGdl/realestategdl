@@ -11,7 +11,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Diseño sin título (25).png
-          altText: Faux Fur Throw
+          altText: ''
           elementId: ''
           styles:
             self:
