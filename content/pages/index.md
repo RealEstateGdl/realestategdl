@@ -9,8 +9,9 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
+        text: |+
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(29\).png)
+
         image:
           type: ImageBlock
           altText: Maria Walters
