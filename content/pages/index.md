@@ -318,7 +318,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: flex-end
+        justifyContent: center
         margin:
           - mt-24
           - ml-24
