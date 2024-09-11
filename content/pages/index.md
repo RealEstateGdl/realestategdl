@@ -33,8 +33,10 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(27\).png)
+        text: >+
+          <div style="text-align: center">###
+          ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(27\).png)</div>
+
         actions: []
         colors: bg-light-fg-dark
         styles:
