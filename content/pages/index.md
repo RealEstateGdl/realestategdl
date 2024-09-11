@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FAMILY CLUB
-        subtitle: $ 88 – $ 176
+        subtitle: + DE 30 AMENIDADES
         image:
           type: ImageBlock
           url: /images/Diseño sin título (17).png
