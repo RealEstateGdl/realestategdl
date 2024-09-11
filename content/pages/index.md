@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: ''
         text: |
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(32\).png)
