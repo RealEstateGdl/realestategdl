@@ -32,7 +32,6 @@ sections:
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(27\).png)
         image:
           type: ImageBlock
-          url: /images/5c1fd031-e758-47eb-9834-c634cc1ae885.jpg
           altText: Maria Walters
           styles:
             self:
