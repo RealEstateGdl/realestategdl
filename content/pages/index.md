@@ -56,7 +56,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |+
-          ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)
+          ### ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)
 
         image:
           type: ImageBlock
