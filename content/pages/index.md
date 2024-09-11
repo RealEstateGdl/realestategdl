@@ -34,7 +34,7 @@ sections:
             borderWidth: 0
       - type: FeaturedItem
         title: ''
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
