@@ -70,14 +70,6 @@ sections:
         subtitle: Be in good company
         text: |
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)
-        image:
-          type: ImageBlock
-          url: /images/Diseño sin título (30).png
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
         actions: []
         colors: bg-dark-fg-light
         styles:
