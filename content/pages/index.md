@@ -367,7 +367,7 @@ sections:
       - url: /images/Diseño sin título (9).png
         altText: Rangle logo
         type: ImageBlock
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
