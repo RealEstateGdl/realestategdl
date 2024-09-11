@@ -302,11 +302,11 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
       - url: /images/Club Leon.png
         altText: Contentful logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
         type: ImageBlock
       - url: /images/389524f75395f5910a1cf12480fd1559.png
         altText: Rangle logo
