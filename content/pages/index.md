@@ -10,8 +10,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          <div style="text-align: right">###
-          ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(31\).png)</div>
+          <div style="text-align:
+          right">![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(31\).png)</div>
 
         image:
           type: ImageBlock
