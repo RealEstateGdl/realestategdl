@@ -68,10 +68,8 @@ sections:
         title: Business Consulting
         tagline: ''
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)
         image:
           type: ImageBlock
           url: /images/Diseño sin título (30).png
