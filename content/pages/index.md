@@ -277,7 +277,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/389524f75395f5910a1cf12480fd1559.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
