@@ -80,7 +80,7 @@ sections:
             margin:
               - mt-0
               - mr-20
-              - ml-20
+              - ml-0
     variant: next-prev-nav-multiple
     colors: bg-light-fg-dark
     styles:
