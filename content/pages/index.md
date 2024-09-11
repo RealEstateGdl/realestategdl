@@ -299,7 +299,7 @@ sections:
       - url: /images/Diseño sin título (3).png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/Houston_Astros_logo.svg
+      - url: /images/Diseño sin título (4).png
         altText: Wellster logo
         type: ImageBlock
         elementId: WESTER LOGO
