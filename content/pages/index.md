@@ -41,7 +41,6 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Diseño sin título (30).png
           altText: Maria Walters
           styles:
             self:
