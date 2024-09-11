@@ -299,6 +299,13 @@ sections:
       - url: /images/Diseño sin título (3).png
         altText: Vise logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/Diseño sin título (4).png
         altText: Wellster logo
         type: ImageBlock
