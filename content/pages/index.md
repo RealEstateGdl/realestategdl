@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: FAMILY CLUB
+    subtitle: + DE 30 AMENIDADES
     items:
       - type: FeaturedItem
         title: ''
