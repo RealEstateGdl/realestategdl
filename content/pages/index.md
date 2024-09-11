@@ -13,13 +13,6 @@ sections:
         subtitle: 'Maria Walters, Company'
         text: |
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(32\).png)
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
