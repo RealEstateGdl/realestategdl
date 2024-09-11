@@ -79,7 +79,7 @@ sections:
             justifyContent: center
             margin:
               - mt-24
-              - mr-0
+              - mr-5
     variant: next-prev-nav-multiple
     colors: bg-light-fg-dark
     styles:
