@@ -28,7 +28,7 @@ sections:
               - pr-0
             textAlign: center
             borderRadius: large
-            flexDirection: col
+            flexDirection: col-reverse
             justifyContent: center
       - type: FeaturedItem
         title: ''
