@@ -749,6 +749,6 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: 'og:type'
+      property: 'og:video'
 type: PageLayout
 ---
