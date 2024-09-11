@@ -293,7 +293,7 @@ sections:
     hoverEffect: move-up
   - subtitle: ORGULLOSOS PATROCINADORES
     images:
-      - url: /images/Diseño sin título (2).png
+      - url: /images/Diseño sin título (6).png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/Diseño sin título (3).png
