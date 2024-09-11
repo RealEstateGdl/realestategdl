@@ -65,7 +65,7 @@ sections:
               - mr-0
               - ml-0
       - type: FeaturedItem
-        title: + DE 30 AMENIDADES
+        title: ''
         tagline: ''
         subtitle: ''
         text: |
