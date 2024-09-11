@@ -37,8 +37,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |+
-          <div style="text-align: right">```
-          ```</div>
+          <div style="text-align: right"></div>
 
         image:
           type: ImageBlock
