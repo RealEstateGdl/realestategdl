@@ -54,7 +54,7 @@ sections:
     subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: FAMILY CLUB
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
