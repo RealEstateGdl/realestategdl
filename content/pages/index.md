@@ -326,6 +326,7 @@ sections:
           - mr-24
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
