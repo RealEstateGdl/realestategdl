@@ -309,7 +309,7 @@ sections:
       - url: /images/Diseño sin título (8).png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/389524f75395f5910a1cf12480fd1559.png
+      - url: /images/Diseño sin título (9).png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
