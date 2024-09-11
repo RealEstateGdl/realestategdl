@@ -56,9 +56,8 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |+
-          ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)
-
+        text: |
+          ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(34\).png)
         actions: []
         colors: bg-light-fg-dark
         styles:
