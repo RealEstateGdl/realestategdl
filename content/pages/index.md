@@ -293,13 +293,13 @@ sections:
     hoverEffect: move-up
   - subtitle: ORGULLOSOS PATROCINADORES
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/Houston_Astros_logo.svg
         altText: Wellster logo
         type: ImageBlock
         elementId: WESTER LOGO
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
