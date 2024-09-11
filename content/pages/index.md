@@ -36,25 +36,6 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |+
-          <div style="text-align: center">```
-          ```</div>
-
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
         text: >+
           <div style="text-align: center">###
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)</div>
