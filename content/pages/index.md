@@ -185,7 +185,7 @@ sections:
       title: Title of the video
       url: 'C:\Users\Ciudad Maderas\Desktop\Video Ciudad Maderas Amenidades.mp4'
       controls: false
-      aspectRatio: '4:3'
+      aspectRatio: '16:9'
       styles:
         self:
           padding:
