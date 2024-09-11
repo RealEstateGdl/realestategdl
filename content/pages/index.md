@@ -24,14 +24,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-        image:
-          type: ImageBlock
-          url: /images/Diseño sin título (25).png
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
