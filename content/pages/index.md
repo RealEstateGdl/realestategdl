@@ -30,7 +30,7 @@ sections:
         subtitle: ''
         text: >+
           <div style="text-align:
-          right">![](https://preview--realestateg-0fcb7.stackbit.dev/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(31\).png)</div>
+          right">![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(33\).png)</div>
 
         image:
           type: ImageBlock
