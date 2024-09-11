@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FAMILY CLUB
-        subtitle: + DE 30 AMENIDADES
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/Diseño sin título (18).png
