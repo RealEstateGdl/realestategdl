@@ -46,6 +46,7 @@ sections:
           styles:
             self:
               borderRadius: full
+          url: /images/Diseño sin título (30).png
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
