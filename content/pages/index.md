@@ -274,16 +274,16 @@ sections:
         textAlign: center
   - subtitle: ORGULLOSOS PATROCINADORES
     images:
-      - url: /images/Houston_Astros_logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-        elementId: WESTER LOGO
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
+      - url: /images/Houston_Astros_logo.svg
+        altText: Wellster logo
+        type: ImageBlock
+        elementId: WESTER LOGO
       - url: /images/Club Leon.png
         altText: Contentful logo
         type: ImageBlock
