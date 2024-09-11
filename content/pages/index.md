@@ -306,9 +306,6 @@ sections:
       - url: /images/Club Leon.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/venados-fc-logo-F5A0972131-seeklogo.com.png
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
