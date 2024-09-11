@@ -12,7 +12,7 @@ sections:
         text: |
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(32\).png)
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
