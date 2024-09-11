@@ -289,7 +289,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/images.png
+      - url: /images/venados-fc-logo-F5A0972131-seeklogo.com.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
