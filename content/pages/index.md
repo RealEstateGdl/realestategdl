@@ -10,7 +10,7 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/Diseño sin título (26).png
+          url: /images/5c1fd031-e758-47eb-9834-c634cc1ae885.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
