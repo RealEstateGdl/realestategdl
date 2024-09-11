@@ -151,7 +151,7 @@ sections:
         style: secondary
       - type: Link
         label: See Tutorials
-        url: /
+        url: 'C:\Users\Ciudad Maderas\Desktop\Video Ciudad Maderas Amenidades.mp4'
         showIcon: true
         icon: arrowRight
         iconPosition: right
