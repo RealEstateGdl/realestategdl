@@ -75,7 +75,7 @@ sections:
               - pr-0
             textAlign: left
             borderRadius: large
-            flexDirection: row
+            flexDirection: row-reverse
             justifyContent: center
             margin:
               - mt-0
