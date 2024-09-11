@@ -26,7 +26,7 @@ sections:
             flexDirection: row
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Diseño sin título (25).png
           altText: Image alt text placeholder
           elementId: ''
           styles:
