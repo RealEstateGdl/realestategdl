@@ -306,7 +306,7 @@ sections:
       - url: /images/Diseño sin título (5).png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/Diseño sin título (7).png
+      - url: /images/Diseño sin título (8).png
         altText: Telus logo
         type: ImageBlock
       - url: /images/389524f75395f5910a1cf12480fd1559.png
