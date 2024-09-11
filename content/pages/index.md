@@ -10,7 +10,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: |
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(32\).png)
         actions: []
