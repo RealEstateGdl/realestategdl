@@ -53,7 +53,7 @@ sections:
               - pt-16
               - pb-16
               - pl-16
-              - pr-1
+              - pr-0
             textAlign: left
             borderRadius: large
             flexDirection: row
