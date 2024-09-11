@@ -296,7 +296,7 @@ sections:
       - url: /images/389524f75395f5910a1cf12480fd1559.png
         altText: Rangle logo
         type: ImageBlock
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
