@@ -850,6 +850,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:video'
-  addTitleSuffix: false
+  addTitleSuffix: true
 type: PageLayout
 ---
