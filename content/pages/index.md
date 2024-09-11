@@ -300,7 +300,7 @@ sections:
         altText: Vise logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/Diseño sin título (11).png
+        url: /images/Diseño sin título (13).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
