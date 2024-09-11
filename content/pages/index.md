@@ -78,7 +78,7 @@ sections:
             flexDirection: row
             justifyContent: center
             margin:
-              - mt-24
+              - mt-0
               - mr-20
               - ml-20
     variant: next-prev-nav-multiple
