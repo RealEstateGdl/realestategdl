@@ -36,32 +36,6 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: 'Maria Walters, Company'
-        text: |
-          ![](/images/5c1fd031-e758-47eb-9834-c634cc1ae885.jpg)
-        image:
-          type: ImageBlock
-          url: /images/5c1fd031-e758-47eb-9834-c634cc1ae885.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
         subtitle: ''
         text: |+
           ![](/images/Dise%C3%B1o%20sin%20t%C3%ADtulo%20\(30\).png)
