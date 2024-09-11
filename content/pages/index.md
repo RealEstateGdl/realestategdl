@@ -292,7 +292,7 @@ sections:
       - url: /images/venados-fc-logo-F5A0972131-seeklogo.com.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/images (1).png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
