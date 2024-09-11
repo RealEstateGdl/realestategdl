@@ -8,7 +8,7 @@
                     "mr-3"
                 ],
                 "borderWidth": 0,
-                "borderStyle": "none"
+                "borderStyle": "dotted"
             }
         },
         "type": "ImageBlock"
