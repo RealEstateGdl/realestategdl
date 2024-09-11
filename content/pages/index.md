@@ -277,7 +277,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/389524f75395f5910a1cf12480fd1559.png
+      - url: /images/Houston_Astros_logo.svg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
