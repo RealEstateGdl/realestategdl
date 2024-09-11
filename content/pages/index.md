@@ -304,83 +304,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - subtitle: ORGULLOSOS PATROCINADORES
-    images:
-      - url: /images/Diseño sin título (6).png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/Diseño sin título (3).png
-        altText: Vise logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/Diseño sin título (13).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/Diseño sin título (4).png
-        altText: Wellster logo
-        type: ImageBlock
-        elementId: WESTER LOGO
-      - url: /images/Diseño sin título (5).png
-        altText: Contentful logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/Diseño sin título (10).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Diseño sin título (14).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Diseño sin título (16).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/Diseño sin título (8).png
-        altText: Telus logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/Diseño sin título (15).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/Diseño sin título (12).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/Diseño sin título (9).png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        margin:
-          - mt-24
-          - ml-24
-          - mb-24
-          - mr-24
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-    type: ImageGallerySection
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
@@ -587,6 +510,83 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+  - subtitle: ORGULLOSOS PATROCINADORES
+    images:
+      - url: /images/Diseño sin título (6).png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/Diseño sin título (3).png
+        altText: Vise logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/Diseño sin título (13).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/Diseño sin título (4).png
+        altText: Wellster logo
+        type: ImageBlock
+        elementId: WESTER LOGO
+      - url: /images/Diseño sin título (5).png
+        altText: Contentful logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/Diseño sin título (10).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Diseño sin título (14).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Diseño sin título (16).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/Diseño sin título (8).png
+        altText: Telus logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/Diseño sin título (15).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/Diseño sin título (12).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/Diseño sin título (9).png
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        margin:
+          - mt-24
+          - ml-24
+          - mb-24
+          - mr-24
+      subtitle:
+        textAlign: center
+        fontWeight: 700
+    type: ImageGallerySection
   - title:
       text: Business Consulting
       color: text-dark
