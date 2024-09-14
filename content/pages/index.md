@@ -136,7 +136,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Conoce nuestros desarrollos
       color: text-dark
       styles:
         self:
